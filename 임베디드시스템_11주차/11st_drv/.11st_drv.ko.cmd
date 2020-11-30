@@ -1,0 +1,1 @@
+cmd_/home/jihyeong/drive/11st_drv/11st_drv.ko := arm-linux-gnueabi-ld -EL -r  -T /home/jihyeong/drive/linux_kernel/scripts/module-common.lds --build-id  -o /home/jihyeong/drive/11st_drv/11st_drv.ko /home/jihyeong/drive/11st_drv/11st_drv.o /home/jihyeong/drive/11st_drv/11st_drv.mod.o
